@@ -1,9 +1,9 @@
 import React from 'react';
 import Canvas from './Canvas';
 
-const App = () => {
+const Storyboard = () => {
   const draw = (context) => {
-    // Your drawing code here
+    // Your storyboard drawing code here
   };
 
   return (
@@ -13,4 +13,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Storyboard;
